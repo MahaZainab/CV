@@ -1,4 +1,4 @@
-# Computer Vision Repository
+# CV Repository
 This repository contains various computer vision and deep learning projects and experiments that I have implemented using popular libraries such as OpenCV, TensorFlow, and PyTorch.
 
 ## Projects
